@@ -4,7 +4,6 @@
 * Binjitsu
 * Pwndbg
 * Radare2
-* Firmware tools (fmk / qemu)
 
 ## Install Vagrant
 Check [VagrantUp](http://www.vagrantup.com/downloads) for information on installing vagrant.
